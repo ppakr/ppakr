@@ -4,6 +4,11 @@
 🔧 I love learning and working with **robotics**, **control systems**, and **autonomous vehicles**  
 ☕ When I'm not coding, I'm probably perfecting my latte art as a self-taught **home barista**
 
+## 🔗 Find me elsewhere
+
+- 🧠 More projects on [GitLab](https://gitlab.com/ppakr)
+
+
 > Currently exploring ROS 2, underwater autonomy, and open-source tools for marine robotics.
 
 
